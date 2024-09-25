@@ -4,7 +4,7 @@ Building up your business's community outreach and credability through Google's 
 
 ## Insights Pro
 
-Insights Pro is the model that powers this web app. It is a Llama3.1-8B model fine-tuned on data that was collected from 552 business's across North America. It performence is not amazing, but will improve as the dataset it was fine-tuned with gets better.
+Insights Pro is the model that powers this web app. It is a Llama3.1-8B model fine-tuned on data that was collected from 552 business's across North America. Its performence is not amazing, but will improve as the dataset it was fine-tuned on gets better.
 
 The repository which contains all the files I used for the data collection and data processing can be found here: https://github.com/willvo2004/webscrapper-datacurator
 

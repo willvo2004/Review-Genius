@@ -9,3 +9,7 @@ Insights Pro is the model that powers this web app. It is a Llama3.1-8B model fi
 The repository which contains all the files I used for the data collection and data processing can be found here: https://github.com/willvo2004/webscrapper-datacurator
 
 This was a very fun project to work on over summer '24 and I hope to finish it off this data science and machine learning adventure with a good website. After all, I'm not even supposed to be doing this AI stuff, I'm a lowly Javascript developer yall.
+
+#### Hugging Face Repositories
+Model Card: https://huggingface.co/willvo2004/insights-pro
+Dataset Card: https://huggingface.co/datasets/willvo2004/google-review-instruction-dataset

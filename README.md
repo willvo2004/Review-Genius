@@ -12,4 +12,5 @@ This was a very fun project to work on over summer '24 and I hope to finish it o
 
 #### Hugging Face Repositories
 Model Card: https://huggingface.co/willvo2004/insights-pro
+
 Dataset Card: https://huggingface.co/datasets/willvo2004/google-review-instruction-dataset
